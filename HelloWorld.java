@@ -24,7 +24,7 @@ public class HelloWorld {
         System.out.println(Master2)
                 afgsdfgsfdgsg
                1
-                       2
+                       2rtztrzertzerz
                                2
                                        2
 
